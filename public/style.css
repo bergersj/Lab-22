@@ -53,3 +53,24 @@ a:hover {
   box-shadow: 5px 5px rgb(6, 117, 221);
   border-radius: 5px;
 }
+
+/*#arrayPic {
+  border: none;
+  box-shadow: none;
+  border-radius: 5px;
+  margin-left: 0;
+  padding-left: 0;
+}*/
+
+#arrayBack {
+  background-image: url('http://www.dvdizzy.com/images/c/checkitout-16.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+p span {
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.5);
+   padding: 10px;
+}
